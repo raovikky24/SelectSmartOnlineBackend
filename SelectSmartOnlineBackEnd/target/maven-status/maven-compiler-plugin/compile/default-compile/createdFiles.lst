@@ -1,0 +1,4 @@
+com\niit\dao\CategoryDAOImpl.class
+com\niit\model\Category.class
+com\niit\config\DBConfig.class
+com\niit\dao\CategoryDAO.class
